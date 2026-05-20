@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+sqlalchemy
+psycopg2-binary
+easyocr
+opencv-python
+pillow
+numpy
