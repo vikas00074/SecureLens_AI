@@ -1,5 +1,4 @@
 import { useState } from 'react'
-import API from '../api/api'
 
 function UploadBox() {
   const [file, setFile] = useState(null)

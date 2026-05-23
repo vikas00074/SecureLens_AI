@@ -1,7 +1,7 @@
 import Sidebar from "../components/Sidebar"
 import Navbar from "../components/Navbar"
 
-function Reports() {
+function Settings() {
 
   return (
 
@@ -16,11 +16,11 @@ function Reports() {
         <div className="bg-[#111827] p-8 rounded-2xl">
 
           <h1 className="text-4xl font-bold mb-4">
-            Reports
+            Settings
           </h1>
 
           <p className="text-gray-400">
-            Download fraud reports and compliance summaries.
+            Configure AI engine, alerts, integrations and workflows.
           </p>
 
         </div>
@@ -31,4 +31,4 @@ function Reports() {
   )
 }
 
-export default Reports
+export default Settings
